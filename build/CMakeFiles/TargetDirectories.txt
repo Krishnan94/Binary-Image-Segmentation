@@ -1,0 +1,3 @@
+/home/k/k_rishna/code/build/CMakeFiles/rebuild_cache.dir
+/home/k/k_rishna/code/build/CMakeFiles/edit_cache.dir
+/home/k/k_rishna/code/build/CMakeFiles/seg.dir
